@@ -1,7 +1,7 @@
 # LQRRecordProgress
 仿微信小视频进度条
 
-##一、使用：
+## 一、使用：
 	
 1、布局中使用：
 
@@ -20,7 +20,8 @@
 	mRp.setProgressColor(Color.parseColor("#FF1493"));//设置进度条颜色
 	mRp.setRecordTime(20);//设置进度条的显示时间
 
-##二、效果：
+## 二、效果：
+
 ![image](screenshots/1.gif)
 
 
